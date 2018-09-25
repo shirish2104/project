@@ -1,0 +1,147 @@
+1. Learn the synchronization of threads and prioritization of thread
+2. WAP to define the class person and DOB, name as the attributes of the person and also write the behavioud to calicuate the age of the person
+3. Create a class Person with the name and surname as the attributes and perform.. greater than, less than, not equal to , greater than equal to , less than equal to  operations using magical methods
+
+4. WAP to compare and subraction of two fractional numbers using magical methods
+5. overwrite the + of a list as a adding the lists elements by element.
+6. create a class person with height and title as a attribute. Where we create the object, should get the respectoive person with a minimum height or not. 
+
+7. Differentiate the class methods instance methods and static methods
+8. create the class Employee, person, bank,. WAP to credit the salary into employees bank account on first of everymonth and also do ing normal withdrawal , deposti and tranfer for a person. 
+
+9. Create a class
+Class_person
+Class student,teacher,staff_member using inheritance concept  
+
+
+
+
+
+
+10. take any 5 IP's. Connect to all the machines simultaneously and verify the size of log file. if size of log file reaches certain limit, immediately send the mail to develop team.
+
+
+1. Explain in heritance with an example
+
+2. Take two lists
+
+l1 = [3,5]
+l2 = [7,3]
+
+WAP to output as 10,8
+
+Done ---3. WAP to check whether given no is prime or not
+
+
+4. take input from console from user as below 
+
+11 12 13 14 15 WAP to sum all the numbers in a single line
+
+use list comprahension or map
+
+
+5. take a list l1 = [3,5,7,8,9,11,15,17,19] WAP to print all prime no of above list in a single list using filter 
+
+6. expalin the difference between list and touple. 
+
+7. Take a input from the console and count no of digits in it. and no of small characters
+
+Done -- 8. l1 = [10,20,30,[40,50,60],90,100] single dimensions list or array
+
+9. a = "I am working in Nexiilabs" and count the number of repetations for each character
+
+                                    or 
+
+10. take a string "google" and print the characters which are not repeating
+
+11. take a list [1,2,4,5,6,4,3,2,1] . print the list withpout duplicates..
+
+12. write a program with various set operations. 
+13. explain list comprehension with example. 
+
+14. WAP with difference between list and set 
+
+15. WAP with banking operations deposit, withdrawal and transfer for different accounts saving, salary. or 
+
+16. Addition of two fractional number. 
+
+1,2,3,7,9,10,15,16,12 optional and finally write 10 questions. 
+
+1, 4, 8 ,15/16 compulsary.. 
+
+
+
+1. WAP to connect to database adn create a table Employee, 
+ insert few rows and get the data from the table employee ids between 1 to 10 and load the data into a file with | delimiter in data.txt. Also delete the employees whose id are in between 11 to 20
+
+2. WAP to connect 5 IPs simultaneously and run the command df -mh(check the memory) and if memory usage is more than 80% for any folder send a mail with some ip details. Also create a log file. 
+
+3. WAP to list ips and no of ips without duplicates from above log file. In case of no log file create some log file with some data using regulare expressions. 
+
+4. WAP for validation of email using re. or to get the email ids from the string. or retrieve the mail ids fro the content. 
+
+5. WAP to create Class complex numbers and perform addition, sub, multiplication, division and modules of complex numbers using overriding concept
+
+6. WAP to add two fractional using the magical methods and GCD. 
+
+7. WAP to add two dictionaries or implement the addition of two dictionaries 
+
+8. WAP to check whether a given string is palindrome or not in a single line. 
+
+9. WAP in given list to implement [1,2,3,[4,5,6],7,8,[10,11,12]]
+
+
+
+Assignment class1:
+1.	Write a program to swap 2 variables without using 3 variable
+2.	Write a program to swap 2 variables in a single line
+3.	Write a program to covert KM to meters
+
+Assignments: (class 2 and 3)
+1.	Write a program to analyze the time difference between extend and plus
+2.	Create a list with all odd numbers from 1 to 100 list using list comprehension with if condition
+3.	Create a list with all numbers range from 1 to 100 and replace all odd numbers with character “a”
+4.	Add the elements in 2 lists
+5.	Understand the logic for below expressions.
+[(x,y) for x in a for y in b]
+[[(x,y) for x in a]for y in b]]
+6.	[5,[4,8],9,[10,11,12],19,20]
+Print output as [5,4,8,9,10,11,12,19,20]
+7.	X=-10,
+a=”positive” if x else “negative”
+Print a 
+8.	Find the greatest number among 3 integers
+9.	Write program for prime number
+
+Assignment: Class4
+1.	Print a character in arrow shape. Note No. of lines in the cap should be taken using raw_input(). Also No. of lines in cap and line should be same 
+Eg: console input or raw_input vale is 3
+     N
+    NNN
+   NNNNN
+    NNN
+    NNN
+    NNN
+2.	Gather the extra methods and write the program using set 
+
+Assignment class5
+1.	Shallow and deep copy . write a program to differentiate both deep and shallow copy using Lists
+2.	Take a string using raw_input() and check whether string is palindrome 
+3.	Repeat 2Q and write the program in one line
+4.	rewrite the below code using list comprehension
+A=[1,2,3,4]
+B=[1,4,5,6,7]
+For x in a:
+	For y in b:
+		If x!=y:
+			Output =a.append(x,y)
+Print output
+5.	Write a program to print the ordered dictionary
+
+class 6
+1) "create a list "a" with some values and list 'b' using shallow copy of "a"
+  a) append any new value to 'b' observe the changes in 'a ' and 'b'
+  b) append any new value to 'a' observe the changes in 'a' and 'b'
+2)"create a new list 'a' with some values and another list 'b' as b=a repeate the same two points"
+
+
